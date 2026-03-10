@@ -1,7 +1,7 @@
 {
   "name": "e31-assignment3",
   "version": "1.0.0",
-  "description": "## Overview This assignment is designed to give you practice with Express routing and templates. You'll create a small Express app that serves dynamic content based on URL parameters, and which uses a template engine to render HTML pages. The focus is on understanding how to define routes, handle parameters, and render views with a template engine. The result will be a simple web application that displays information, accepts new information via an HTML FORM, and which is deployed to the web for others to access.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
